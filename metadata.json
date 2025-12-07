@@ -1,0 +1,5 @@
+{
+  "name": "Zen Gomoku (五子棋)",
+  "description": "A clean, ad-free Gomoku (Five-in-a-Row) game. Play against a powerful AI or challenge friends locally and via link sharing.",
+  "requestFramePermissions": []
+}
